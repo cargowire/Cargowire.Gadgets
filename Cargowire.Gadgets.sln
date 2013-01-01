@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cargowire.Gadgets.Thermometer", "Cargowire.Gadgets.Thermometer\Cargowire.Gadgets.Thermometer.csproj", "{9B81F13C-A34F-4C49-AD38-CFB85DBECD12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cargowire.Gadgets.Pong", "Cargowire.Gadgets.Pong\Cargowire.Gadgets.Pong.csproj", "{78BAAEF7-A581-4891-9A47-54873AEC105F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B81F13C-A34F-4C49-AD38-CFB85DBECD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B81F13C-A34F-4C49-AD38-CFB85DBECD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B81F13C-A34F-4C49-AD38-CFB85DBECD12}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9B81F13C-A34F-4C49-AD38-CFB85DBECD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B81F13C-A34F-4C49-AD38-CFB85DBECD12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B81F13C-A34F-4C49-AD38-CFB85DBECD12}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{78BAAEF7-A581-4891-9A47-54873AEC105F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BAAEF7-A581-4891-9A47-54873AEC105F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BAAEF7-A581-4891-9A47-54873AEC105F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{78BAAEF7-A581-4891-9A47-54873AEC105F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BAAEF7-A581-4891-9A47-54873AEC105F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BAAEF7-A581-4891-9A47-54873AEC105F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

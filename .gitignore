@@ -1,0 +1,11 @@
+*.suo
+*.user
+bin
+obj
+.DS_Store
+Thumbs.db
+packages/
+_ReSharper*/
+*.Publish.xml
+*.Tests.xml
+.nuget/
